@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Web sencilla</title>
+<link rel="stylesheet" href="estilos.css">
+</head>
+ 
+<body>
+ 
+<header>
+<h1>The World of Videogames</h1>
+</header>
+  
+<main>
+ 
+    <div id="¿Te apasionan los videjuegos" class="seccion">
+<h2>¿Te apasionanlo videojuegos?</h2>
+<p>A traves de esta pagina web podras saber cómo funcionan los videojuegos, cómo es su proceso de desarrollo, los diferentes generos que existen entre otras muchas cosas que, si de verdad eres un apasionado de los videojuegos, sabemos que te van a encantar</p>
+      <p> <img src= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6VSPv8mtjLCNZHMArPohQr5-oOJqFSURjw&s> </img> 
+ 
+  </div>
+  
+      <div id= "¿Quiere saber cómo evolucionaron?" class="seccion especial">
+        <div class="texto">
+<h2>¿Quieres saber cómo evolucionaron?</h2>
+<p> Podras comprobar de primera mano cómo es que los videojugos fueron evolucinando cono el pasar de las decadas, de cómo pasamos de los míticos Pong y Tetris, pasando por Super Mario, Sonic the Hedgehog, Zelda, llegando finalmente a las generaziones más actules con juegos como, GTA, God of War, Uncharted, la saga Souls y muchos más que estan por venir.</p>
+          <p> No solo abarcaremos su historia, sino también la historia de las consolas, en donde estos se dieron a conocer, y las compañias que las fabricaron. Pasaremos por las mas antiguas como Atari, llegando después a Nintendo y Sega, con la aparición de la Playstation y la Xbox de parte de Sony y Microsoft, hablado finalmente de las cosolas indis más recientes y que han adquirido una gran importancia y que han sido caoacesd de rivalizar con los más grandes.
+          <p> <iframe width="415" height="215" src="https://www.youtube.com/embed/j1XYbI6JcXI?si=jMZ-woaBuslVixPi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+ 
+    <div id= "¿Dónde comprar estos juegos" class="seccion">
+<h2>¿Dónde comprar estos juegos?</h2>
+<p>Extisten muchos tiendas online y físicas en donde podemos encontrar a la venta multiud de videojuegos y consolas, en algunos sitios más baratos o de segunda mano y en otros donde a lo mejor se les la mano con los precios. En cualquier, caso aquí os dejamos diferentes enlaces a tiendas online en donde podreis comprobar los precios de juegos y cosolas para que podais hacer una comparación y elegir elsiotio que mejor se ajuste a vosotrso en cuestión calidad precio. Cabe aclarar que algunas tindas online son para descargar juegos en el ordenador y que si quereis juegos fisicos para cosolas debeis buscra en en las tiendas online que tienen las tiendas físicas, a las cuales podreis aceder atraves de unos enlaces que or vamos a dejar.</p>
+     <p> <a href="https://store.steampowered.com/?l=spanish"> Bienvenido a Steam </a> </p>
+      
+</div>
+ 
+</main>
+ 
+
+ 
+</body>
+</html>
