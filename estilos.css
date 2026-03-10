@@ -60,3 +60,23 @@ nav a {
     margin: 5px;
     border-radius: 5px;
 }
+table {
+    border-collapse: collapse; /* Une las líneas de la tabla */
+    width: 60%;
+}
+
+ 
+
+th, td {
+    border: 1px solid black; /* Líneas de la tabla */
+    padding: 8px;
+    text-align: center;
+}
+
+ 
+
+th {
+    background-color: #4CAF50; /* Color del encabezado */
+    color: white;
+}
+
