@@ -47,7 +47,7 @@ footer {
 } 
 /* MENÚ */
 nav {
-    background-color: #333;
+    background-color: #0229C4;
     padding: 15px;
     text-align: center;
 }
@@ -55,7 +55,7 @@ nav {
 nav a {
     color: white;
     text-decoration: none;
-    background-color: #4CAF50;
+    background-color: #00AB09;
     padding: 10px;
     margin: 5px;
     border-radius: 5px;
